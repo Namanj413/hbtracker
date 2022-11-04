@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Namanj413/hbtracker/static/css/main.60813dcc.css",
+    "main.js": "/Namanj413/hbtracker/static/js/main.cc2d1385.js",
+    "index.html": "/Namanj413/hbtracker/index.html",
+    "main.60813dcc.css.map": "/Namanj413/hbtracker/static/css/main.60813dcc.css.map",
+    "main.cc2d1385.js.map": "/Namanj413/hbtracker/static/js/main.cc2d1385.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60813dcc.css",
+    "static/js/main.cc2d1385.js"
+  ]
+}
